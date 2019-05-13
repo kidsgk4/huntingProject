@@ -1,4 +1,7 @@
-HuntingProject
+#프로젝트명  : HuntingProject
+게임 설명  : javaSE 기반의 AWT/Swing 을 적용한 스케줄러 
+적용 기술  : java 8.x , oracle 11g
+개발 환경  : Eclipse , SQLPlus
 
 네트워크 기능을 구현한 전자메뉴판 팀플 프로젝트 - 담당업무 : (유저) 게임서비스  / (관리자) 게임 관리
 
