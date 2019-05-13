@@ -1,3 +1,5 @@
-# huntingProject
+HuntingProject
+
+네트워크 기능을 구현한 전자메뉴판 팀플 프로젝트 - 담당업무 : (유저) 게임서비스  / (관리자) 게임 관리
 
 
