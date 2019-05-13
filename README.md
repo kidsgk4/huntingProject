@@ -1,8 +1,8 @@
-<h1>프로젝트명  : HuntingProject</h1>
-<h1>프로젝트 설명  : 네트워크 기능을 구현한 전자메뉴판 팀플 프로젝트 </h1>
-<h1>적용 기술  : java 8.x , oracle 11g</h1>
-<h1>개발 환경  : Eclipse , SQLPlus</h1>
-<h1>담당업무 : (유저) 게임서비스  / (관리자) 게임 관리</h1>
+<h4>프로젝트명  : HuntingProject</h4>
+<h4>프로젝트 설명  : 네트워크 기능을 구현한 전자메뉴판 팀플 프로젝트 </h4>
+<h4>적용 기술  : java 8.x , oracle 11g</h4>
+<h4>개발 환경  : Eclipse , SQLPlus</h4>
+<h4>담당업무 : (유저) 게임서비스  / (관리자) 게임 관리</h4>
  
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTNfOTYg/MDAxNTU3NzEzOTkyMDA0.g0rVz_f15dvOnt7eJwqTYygyNXekS7CyjLythnzFYW4g.a_G6Yh_j_l-XZA-VbRgz37DCoJ_pn1v195PDPlHsC88g.PNG.kidsgk4/image.png?type=w580"/>
 
