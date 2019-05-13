@@ -17,7 +17,8 @@
 <p>
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTNfMjgy/MDAxNTU3NzE0MzczMDgz.-OQICRT3iuqowJj6V1ax-D591OVuNWIYvBQj_Dx8uoAg.GA8c0GgtvRB4Zi0imumqWZ-4JILjDeeDiBOGVKgHuSwg.PNG.kidsgk4/image.png?type=w580"/>
--게임 시작 시 랜덤 난수 동물 달리기게임 실행 
+-게임 시작 시 랜덤 난수 동물 달리기 게임 실행 
+<br>
 
 <p>
 
